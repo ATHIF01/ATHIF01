@@ -1,4 +1,4 @@
-#Hi there 👋 I'm Muhammed Athif A S
+# Hi there 👋 I'm Muhammed Athif A S
 
 # 💫 About Me:
 👨🏽‍💻 I'm currently working on Mearn stack<br>👥 I'm looking to collaborate on web development projects<br>📚 I'm currently learning front end development<br>📝 Ask me about web development<br>😜 Fun fact - I am lazy but smart
